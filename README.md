@@ -1,8 +1,3 @@
-That’s wonderful, Saria\! 💖 Since you created ShopeEase, a jewelry website, I can help you write a professional README for your GitHub project.
-
-Here’s a README you can use for your repository.
-
-Writing
 
 # 💎 ShopeEase – Jewelry Shopping Website
 
